@@ -1,4 +1,4 @@
-# PracticeRestAPI
+# Practice NodeJS Rest API
 NodeJS rest API using JWT, MongoDB and Express.
 
 Implemented Login and Register routes using JWT.
